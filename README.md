@@ -103,11 +103,11 @@ An excellent tabcompletion gem. Having this dep enables new Pry stuff. Note that
 
 
   
-- `require 'x&lt;tab&gt;`
-  
-- `{asdf: 1, hjkl: 2}[:a&lt;tab&gt;`
-  
-- `Chain.of.calls.`&lt;tab&gt; # Old pry completion was generic in this case.
+- `require 'x<tab>`
+
+- `{asdf: 1, hjkl: 2}[:a<tab>`
+
+- `Chain.of.calls.<tab> # Old pry completion was generic in this case.`
   
 
 
